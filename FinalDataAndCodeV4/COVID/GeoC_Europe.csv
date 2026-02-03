@@ -1,0 +1,14 @@
+Term,Europe
+"D2(mu_n)",0.927558
+"D2([mu_n, mu_{n+1}])",1.215081
+"D2([mu_n, beta_n, mu_{n+1}])",1.537789
+"D2([mu_n, beta_n])",1.342144
+"D2(beta_n)",0.795365
+"D2([beta_n, beta_{n+1}])",0.854573
+"D2([mu_n, beta_n, beta_{n+1}])",1.359345
+"GeoC(mu_{n+1}|mu_n)",0.287523
+"GeoC(mu_{n+1}|mu_n, beta_n)",0.195645
+"GeoC_{beta->mu}",0.091878
+"GeoC(beta_{n+1}|beta_n)",0.059208
+"GeoC(beta_{n+1}|beta_n, mu_n)",0.017201
+"GeoC_{mu->beta}",0.042007

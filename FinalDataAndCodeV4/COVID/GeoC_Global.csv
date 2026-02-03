@@ -1,0 +1,14 @@
+Term,Global
+"D2(mu_n)",0.960042
+"D2([mu_n, mu_{n+1}])",1.072071
+"D2([mu_n, beta_n, mu_{n+1}])",1.371026
+"D2([mu_n, beta_n])",1.271778
+"D2(beta_n)",0.693734
+"D2([beta_n, beta_{n+1}])",1.001665
+"D2([mu_n, beta_n, beta_{n+1}])",1.309606
+"GeoC(mu_{n+1}|mu_n)",0.112029
+"GeoC(mu_{n+1}|mu_n, beta_n)",0.099248
+"GeoC_{beta->mu}",0.012781
+"GeoC(beta_{n+1}|beta_n)",0.307931
+"GeoC(beta_{n+1}|beta_n, mu_n)",0.037828
+"GeoC_{mu->beta}",0.270103

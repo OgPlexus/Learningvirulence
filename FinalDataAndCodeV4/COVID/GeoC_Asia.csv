@@ -1,0 +1,14 @@
+Term,Asia
+"D2(mu_n)",0.899594
+"D2([mu_n, mu_{n+1}])",1.153344
+"D2([mu_n, beta_n, mu_{n+1}])",1.337165
+"D2([mu_n, beta_n])",1.154491
+"D2(beta_n)",0.737713
+"D2([beta_n, beta_{n+1}])",1.004846
+"D2([mu_n, beta_n, beta_{n+1}])",1.188627
+"GeoC(mu_{n+1}|mu_n)",0.25375
+"GeoC(mu_{n+1}|mu_n, beta_n)",0.182674
+"GeoC_{beta->mu}",0.0710759999999999
+"GeoC(beta_{n+1}|beta_n)",0.267133
+"GeoC(beta_{n+1}|beta_n, mu_n)",0.0210980000000001
+"GeoC_{mu->beta}",0.246035
